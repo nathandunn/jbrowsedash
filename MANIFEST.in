@@ -1,0 +1,7 @@
+include jbrowsedash/jbrowsedash.min.js
+include jbrowsedash/jbrowsedash.min.js.map
+include jbrowsedash/metadata.json
+include jbrowsedash/package-info.json
+include README.md
+include LICENSE
+include package.json

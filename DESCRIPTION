@@ -1,0 +1,15 @@
+Package: jbrowsedash
+Title: JBrowse for Dash
+Version: 0.0.1
+Description: JBrowse for Dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: BSD + file LICENSE
+URL: https://github.com/gmod/jbrowsedash
+BugReports: https://github.com/gmod/jbrowsedash/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Author: Nathan Dunn [aut]
+Maintainer: Nathan Dunn <nathandunn@lbl.gov>
