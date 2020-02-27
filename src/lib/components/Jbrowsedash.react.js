@@ -29,7 +29,7 @@ export default class Jbrowsedash extends Component {
 
         return (
             <div id={id}>
-                zsdfasfjExampleComponent: {label}&nbsp;
+                11ExampleComponent: {label}&nbsp;
                 <input
                     value={value}
                     onChange={
